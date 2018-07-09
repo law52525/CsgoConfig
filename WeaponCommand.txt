@@ -1,0 +1,53 @@
+步枪：
+
+Scout鸟狙 (ssg08)  
+Galil 加利尔 (galilar) 
+Famas 法玛斯 (famas)
+SG553 (sg553)
+AUG (aug)
+M4A1 (m4a1)
+M4A4 (m4a4)
+AK47 (ak47)
+T连狙 (g3sg1)
+CT连狙（scar20）
+AWP (awp)
+
+冲锋枪：
+
+Mac 10 (mac10)
+UMP (ump45)
+P90 (p90)
+PP-Bizon (bizon)
+MP7 (mp7)
+MP9 (mp9)
+
+霰弹枪：
+
+Auto Shotgun (xm1014)
+Mag7 (mag7)
+Sawed Off Shotgun (sawedoff)
+Nova Shotgun (nova)
+M249 (m249)
+Negev (negev)
+
+手枪：
+
+Glock 18 (glock)
+Dual Elites (elite)
+Five Seven (fiveseven)
+Desert Eagle (deagle)
+Tec9 (tec9)
+P2000 (hkp2000)
+P250 (p250)
+
+手雷和装备： 
+
+高爆手榴弹 （hegrenade）
+闪光灯 （flashbang）
+烟雾弹 (smokegrenade)
+诱饵弹 (decoy) 
+燃烧瓶/燃烧弹 （T）Molotov （CT）Incgrenade
+防弹衣 （vest）
+防弹衣+头盔 (vesthelm)
+电击枪 (taser)
+拆弹器 (defuser)
